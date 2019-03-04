@@ -11,3 +11,8 @@
   *   4.3  Mean squared error, 损失函数：均方差
 * 5  Start training, 开始训练
 * 6  Regression result, 回归结果
+
+## TODOs
+- [ ] mnsit 权重保存
+- [ ] mnsit 预测
+- [ ] mnsit Tensorboard训练过程可视化
